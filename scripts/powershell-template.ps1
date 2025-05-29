@@ -5,7 +5,7 @@
     Make sure to run as Administrator or with appropriate privileges.
 
 .NOTES
-    Author          : Josh Madakor
+    Author          : Kyle Davis
     Date Created    : 2024-09-09
     Last Modified   : 2024-09-09
     Version         : 1.0
@@ -21,7 +21,7 @@
 
 .TESTED ON
     Date(s) Tested  : 2024-09-09
-    Tested By       : Josh Madakor
+    Tested By       : Kyle Davis
     Systems Tested  : Windows Server 2019 Datacenter, Build 1809
                       Windows 10 Pro, Build 22H2
     PowerShell Ver. : 5.1.17763.6189
