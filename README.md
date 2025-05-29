@@ -2,7 +2,9 @@
 
 ## Remediations Table
 
-| Tenable PluginID | CVE        | Description                   | Language   | Link                                                     |
-|------------------|------------|-------------------------------|------------|----------------------------------------------------------|
-| 10001            | CVE-2023-0001 | Critical buffer overflow in XYZ software | PowerShell | [View Remediation](https://github.com/kyledbusiness/stig-implementations/blob/main/scripts/powershell-template.ps1) |
-| 10002            | CVE-2023-0002 | SQL injection vulnerability in ABC application | BASH       | [View Remediation](https://github.com/kyledbusiness/stig-implementations/blob/main/scripts/bash-template.sh) |
+| Language   | Link                                                     |
+|------------|----------------------------------------------------------|
+| PowerShell | [View Remediation](https://github.com/kyledbusiness/stig-implementations/blob/main/scripts/windows/WN10-00-000031.ps1) |
+| PowerShell | [View Remediation](https://github.com/kyledbusiness/stig-implementations/blob/main/scripts/windows/WN10-AU-000500.ps1) |
+| BASH       | [View Remediation](https://github.com/kyledbusiness/stig-implementations/blob/main/scripts/linux/UBTU-22-214010.sh) |
+| BASH       | [View Remediation](https://github.com/kyledbusiness/stig-implementations/blob/main/scripts/linux/UBTU-22-252015.sh) |
