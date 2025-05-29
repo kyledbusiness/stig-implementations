@@ -3,9 +3,7 @@
     This PowerShell script configures BitLocker advanced startup settings by modifying registry values to enforce TPM and PIN-based authentication.
 
 .NOTES
-    Author          : James Harrington
-    LinkedIn        : linkedin.com/in/goodk47/
-    GitHub          : github.com/goodka7
+    Author          : Kyle Davis
     Date Created    : 2025-01-24
     Last Modified   : 2025-01-24
     Version         : 1.0
@@ -14,9 +12,9 @@
     STIG-ID         : WN10-00-000031
 
 .TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
-    Systems Tested  : 
+    Date(s) Tested  : 2025-01-24
+    Tested By       : Kyle Davis
+    Systems Tested  : Windows 11 Pro
     PowerShell Ver. :   
 
 .USAGE
