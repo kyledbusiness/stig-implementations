@@ -3,17 +3,15 @@
     This Bash script ensures that Ubuntu 22.04 LTS synchronizes internal information system clocks to the authoritative time source when the time difference is greater than one second.
 
 .NOTES
-    Author          : James Harrington
-    LinkedIn        : linkedin.com/in/goodk47/
-    GitHub          : github.com/goodka7
+    Author          : Kyle Davis
     Date Created    : 2025-01-31
     Last Modified   : 2025-01-31
     Version         : 1.0
     STIG-ID         : UBTU-22-252015
 
 .TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
+    Date(s) Tested  : 2025-01-31
+    Tested By       : Kyle Davis
     Systems Tested  : Ubuntu 22.04 LTS
     Bash Version    :   
 
