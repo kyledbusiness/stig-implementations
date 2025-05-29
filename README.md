@@ -1,6 +1,4 @@
 # Programmatic Vulnerability Remediations
 
-## Remediations
-
-- [Linux (BASH)](https://github.com/kyledbusiness/stig-implementations/tree/main/scripts/linux)
-- [Windows (PowerShell)](https://github.com/kyledbusiness/stig-implementations/tree/main/scripts/windows)
+## [Linux (BASH)](https://github.com/kyledbusiness/stig-implementations/tree/main/scripts/linux)
+## [Windows (PowerShell)](https://github.com/kyledbusiness/stig-implementations/tree/main/scripts/windows)
