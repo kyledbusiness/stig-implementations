@@ -7,7 +7,7 @@
 #     Make sure to run as root or with appropriate privileges.
 #
 # NOTES
-#     Author          : Josh Madakor
+#     Author          : Kyle Davis
 #     Date Created    : 2024-09-09
 #     Last Modified   : 2024-09-09
 #     Version         : 1.0
@@ -19,7 +19,7 @@
 #
 # TESTED ON
 #     Date(s) Tested  : 2024-09-09
-#     Tested By       : Josh Madakor
+#     Tested By       : Kyle Davis
 #     Systems Tested  : Ubuntu 20.04 LTS
 # -----------------------------------------------------------------------------
 
